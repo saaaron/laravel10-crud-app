@@ -1,5 +1,5 @@
 # laravel10-crud-app
-A Sales record app built using Laravel 10 to add records
+A CRUD app built using Laravel 10 to manage sale records
 
 ### Author
 [Sa Aaron](https://twitter.com/SaAaron6)
